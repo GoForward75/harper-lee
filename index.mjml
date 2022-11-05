@@ -1,0 +1,116 @@
+<mjml>
+   <mj-head>
+      <mj-title>Harper Lee Fashion Promotional</mj-title>
+      
+   </mj-head>
+<!-- 
+   <mj-style>
+      @media all screen (max-width: 480px) {
+         .mobile  {
+
+         }
+      }
+   </mj-style> -->
+
+   <mj-body background-color="#e5e5e5">
+   <!-- hero -->
+      <mj-section padding="0">
+         <mj-column padding-top="15px" padding-bottom="0px">
+            <mj-image src="https://i.ibb.co/hLDFLxF/banner.png" alt="new season looks of a beautiful dark-skinned woman" href="www.google.com" padding="0" target="_blank" />
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-bottom="50px">
+         <mj-column width="400px">
+            <mj-text font-family="Georgia" font-style="italic" font-size="40px" font-weight="400px" color="#000000" line-height="32px" align="center">
+               New Season. <br> Fresh Looks.
+            </mj-text>
+            <mj-text font-family="Arial, sans-serif, Helvetica" font-style="italic" font-size="16px" font-weight="400px" color="#000000" line-height="24px" align="center">
+               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut diam nisi, pellentesque fringilla proin. Id quis ornare a tristique nunc id egestas amet egestas. Arcu sem et rhoncus lorem sit cras volutpat.
+            </mj-text>
+            <mj-text font-family="Georgia" font-style="italic" font-size="18px" font-weight="400px" color="#000000" line-height="20px" align="center">
+               <a href="#" style="color:#000000; text-decoration:underline;">Shop Collection</a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <!-- Gallery -->
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="16px" padding-left="0" padding-right="0">
+         <mj-group >
+            <mj-column padding="0">
+               <mj-image src="https://i.ibb.co/Pm5NQgy/man.png" alt="man sitting on a rock" padding-top="0px" padding-bottom="0px" padding-left="16px" padding-right="8px" />
+            </mj-column>
+            <mj-column>
+               <mj-image src="https://i.ibb.co/w06kxLc/lady.png" alt="man sitting on a rock" padding-top="0px" padding-bottom="0" padding-left="8px" padding-right="16px" />
+            </mj-column>
+         </mj-group>
+         
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0" padding-left="0" padding-right="0">
+         <mj-group >
+            <mj-column padding="0">
+               <mj-image src="https://i.ibb.co/vx2Sy3h/man-woman.png" alt="two women holding hands" padding-top="0px" padding-bottom="0px" padding-left="16px" padding-right="8px" />
+            </mj-column>
+            <mj-column>
+               <mj-image src="https://i.ibb.co/vk33zJ1/sitting-floor.png" alt="man sitting on a rock" padding-top="0px" padding-bottom="0" padding-left="8px" padding-right="16px" />
+            </mj-column>
+         </mj-group>
+      </mj-section>
+
+      <!-- Text: Australian owned...  -->
+      <mj-section background-color="#ffffff">
+         <mj-column width="400px" padding-top="20px">
+            <mj-text font-family="Arial"  font-size="24px" font-weight="400px" color="#000000" line-height="28px" align="center">
+               Australian owned and made. <br> <br>
+
+               35 unique styles. <br> <br>
+
+               Sustainably sourced materials. <br> <br>
+
+               Made from 30% recycled materials.
+            </mj-text>
+            <mj-text font-family="Georgia" font-style="italic" font-size="18px" font-weight="400px" color="#000000" line-height="20px" align="center">
+               <a href="#" style="color:#000000; text-decoration:underline;">Shop Collection</a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <!-- footer -->
+      <mj-section background-color="#dc5757" padding-top="10px" padding-bottom="10px" padding-left="8px" padding-right="16px">
+         <mj-column width="500px">
+            <mj-text font-family="Arial" font-size="11px" font-weight="400px" color="#ffffff" line-height="12px" align="center" padding-left="10px" padding-right="10px">
+               Thank you for subscribing to our newsletter. [Your company name] team will work hard to deliver good quality information in the fields you have specified upon subscription. However, if you decide that you no longer want to receive such emails from us, feel free to click the link below.
+            </mj-text>
+            <mj-text font-family="Arial" font-size="13px" font-weight="400px" color="#ffffff" line-height="14px" align="center">
+               <a href="#" style="color:#ffffff;" target="_blank">Unsubscribe</a> &nbsp;                <a href="#" style="color:#ffffff;" target="_blank">View in the browser</a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <!-- footer images -->
+      <mj-section background-color="#dc5757" padding="0">
+         <mj-column width="80px">
+            <mj-image src="https://i.ibb.co/B3SWwBF/footer-logo.png" alt="harper lee logo" padding="0" />
+         </mj-column>
+      </mj-section>
+      <!-- social icons -->
+      <mj-section background-color="#dc5757" padding-top="10px" padding-bottom="20px" padding-left="0" padding-right="0">
+         <mj-group width="150px">
+            <mj-column padding="0" css-class="mobile">
+               <mj-image src="https://i.ibb.co/nnp3CLf/instagram.png" alt="instagram" width="20px" height="20px" padding="0px" target="_blank" href="#" width="20px" height="15px"/> 
+               </mj-column>
+                 <mj-column padding="0">
+                  <mj-image src="https://i.ibb.co/HVbMf22/twitter.png" alt="twitter" width="20px" height="20px" padding="0px" target="_blank" href="#" width="20px" height="15px"/> 
+            </mj-column>
+              <mj-column padding="0">
+            <mj-image src="https://i.ibb.co/5Wh3G7N/fb.png" alt="faebook" width="20px" height="20px" padding="0px" target="_blank" href="#" width="20px" height="15px"/> 
+            </mj-column>
+              <mj-column padding="0">
+            <mj-image src="https://i.ibb.co/HqFwS7Y/youtube.png" alt="youtube" width="20px" height="20px" padding="0px" target="_blank" href="#" width="20px" height="15px"/> 
+            </mj-column>
+         </mj-group>
+      </mj-section>
+   </mj-body>
+
+</mjml>
